@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://strengthening-gis-pottery-gen.trycloudflare.com/$1"
+      "destination": "https://usual-buttons-nickel-tracked.trycloudflare.com/$1"
     }
   ]
 }
