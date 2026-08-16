@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://out-of-law--munnadhali0006.replit.app/$1"
+    }
+  ]
+}
+     
