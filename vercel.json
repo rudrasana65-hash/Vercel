@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://trailers-convention-model-sheriff.trycloudflare.com/$1"
+      "destination": "https://pond-conservative-interfaces-locations.trycloudflare.com/$1"
     }
   ]
 }
