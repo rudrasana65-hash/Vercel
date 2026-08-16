@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://tutorial-pleased-drinking-honors.trycloudflare.com/$1"
+      "destination": "https://truly-undo-openings-ent.trycloudflare.com/$1"
     }
   ]
 }
