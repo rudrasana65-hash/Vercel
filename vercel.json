@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://usual-buttons-nickel-tracked.trycloudflare.com/$1"
+      "destination": "https://challenges-parallel-metropolitan-times.trycloudflare.com/$1"
     }
   ]
 }
