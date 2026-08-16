@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://illustrations-chocolate-everyone-methods.trycloudflare.com/$1"
+      "destination": "https://chambers-sent-biggest-hampton.trycloudflare.com/$1"
     }
   ]
 }
