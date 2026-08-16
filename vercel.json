@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://truly-undo-openings-ent.trycloudflare.com/$1"
+      "destination": "https://style-excitement-honest-liked.trycloudflare.com/$1"
     }
   ]
 }
