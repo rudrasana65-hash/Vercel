@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://frozen-olympics-newsletter-enterprises.trycloudflare.com/$1"
+      "destination": "https://strengthening-gis-pottery-gen.trycloudflare.com/$1"
     }
   ]
 }
