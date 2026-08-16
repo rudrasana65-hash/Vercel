@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://style-excitement-honest-liked.trycloudflare.com/$1"
+      "destination": "https://illustrations-chocolate-everyone-methods.trycloudflare.com/$1"
     }
   ]
 }
