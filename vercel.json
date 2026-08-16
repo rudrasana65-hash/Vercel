@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://job-transport-folk-harvey.trycloudflare.com/$1"
+      "destination": "https://tutorial-pleased-drinking-honors.trycloudflare.com/$1"
     }
   ]
 }
