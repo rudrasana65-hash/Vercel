@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://tubes-cheese-designated-armed.trycloudflare.com/$1"
+      "destination": "https://islands-occasion-setup-tab.trycloudflare.com/$1"
     }
   ]
 }
