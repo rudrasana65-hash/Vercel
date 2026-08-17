@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://programmer-ste-powerseller-outreach.trycloudflare.com/$1"
+      "destination": "https://tubes-cheese-designated-armed.trycloudflare.com/$1"
     }
   ]
 }
