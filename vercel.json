@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://islands-occasion-setup-tab.trycloudflare.com/$1"
+      "destination": "https://pixels-klein-reid-lang.trycloudflare.com/$1"
     }
   ]
 }
