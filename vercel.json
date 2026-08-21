@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://colon-delays-annotated-alcohol.trycloudflare.com/$1"
+      "destination": "https://found-primarily-playlist-fred.trycloudflare.com/$1"
     }
   ]
 }
