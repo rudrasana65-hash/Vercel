@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://criterion-passage-story-makeup.trycloudflare.com/$1"
+      "destination": "https://warm-ids-tooth-knowledgestorm.trycloudflare.com/$1"
     }
   ]
 }
