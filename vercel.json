@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://found-primarily-playlist-fred.trycloudflare.com/$1"
+      "destination": "https://forecasts-organizations-displaying-peas.trycloudflare.com/$1"
     }
   ]
 }
