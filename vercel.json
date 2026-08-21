@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://forecasts-organizations-displaying-peas.trycloudflare.com/$1"
+      "destination": "https://criterion-passage-story-makeup.trycloudflare.com/$1"
     }
   ]
 }
