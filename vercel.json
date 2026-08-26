@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://potentially-legitimate-preserve-thehun.trycloudflare.com/$1"
+      "destination": "https://importance-reprints-journalist-physiology.trycloudflare.com/$1"
     }
   ]
 }
