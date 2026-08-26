@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://importance-reprints-journalist-physiology.trycloudflare.com/$1"
+      "destination": "https://larger-pays-classification-mainstream.trycloudflare.com/$1"
     }
   ]
 }
