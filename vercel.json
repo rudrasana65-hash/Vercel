@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://larger-pays-classification-mainstream.trycloudflare.com/$1"
+      "destination": "https://jacksonville-medicine-reload-grace.trycloudflare.com/$1"
     }
   ]
 }
