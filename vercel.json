@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://sapphire-draw-categories-fold.trycloudflare.com/$1"
+      "destination": "https://lighter-solution-democratic-assuming.trycloudflare.com/$1"
     }
   ]
 }
