@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://lighter-solution-democratic-assuming.trycloudflare.com/$1"
+      "destination": "https://potentially-legitimate-preserve-thehun.trycloudflare.com/$1"
     }
   ]
 }
