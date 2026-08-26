@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://jacksonville-medicine-reload-grace.trycloudflare.com/$1"
+      "destination": "https://donald-injured-rare-joan.trycloudflare.com/$1"
     }
   ]
 }
