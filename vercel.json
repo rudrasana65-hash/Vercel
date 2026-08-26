@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://donald-injured-rare-joan.trycloudflare.com/$1"
+      "destination": "https://blackberry-columbus-panels-scratch.trycloudflare.com/$1"
     }
   ]
 }
