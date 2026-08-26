@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://warm-ids-tooth-knowledgestorm.trycloudflare.com/$1"
+      "destination": "https://sapphire-draw-categories-fold.trycloudflare.com/$1"
     }
   ]
 }
