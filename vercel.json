@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://blackberry-columbus-panels-scratch.trycloudflare.com/$1"
+      "destination": "https://missing-sage-optical-event.trycloudflare.com/$1"
     }
   ]
 }
