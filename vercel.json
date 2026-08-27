@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://attacked-ace-aware-bryant.trycloudflare.com/$1"
+      "destination": "https://safely-kernel-trailer-during.trycloudflare.com/$1"
     }
   ]
 }
