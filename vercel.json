@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://egg-operates-provision-suggest.trycloudflare.com/$1"
+      "destination": "https://attacked-ace-aware-bryant.trycloudflare.com/$1"
     }
   ]
 }
