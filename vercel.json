@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://subdivision-missile-sensitive-weather.trycloudflare.com/$1"
+      "destination": "https://adaptive-louis-estate-wear.trycloudflare.com/$1"
     }
   ]
 }
