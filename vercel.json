@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://settings-variable-exclusively-means.trycloudflare.com/$1"
+      "destination": "https://ethnic-skirt-lesser-identity.trycloudflare.com/$1"
     }
   ]
 }
