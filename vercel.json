@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://adaptive-louis-estate-wear.trycloudflare.com/$1"
+      "destination": "https://settings-variable-exclusively-means.trycloudflare.com/$1"
     }
   ]
 }
