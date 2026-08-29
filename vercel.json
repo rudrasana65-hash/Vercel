@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://ethnic-skirt-lesser-identity.trycloudflare.com/$1"
+      "destination": "https://reasons-alliance-cottage-endorsement.trycloudflare.com/$1"
     }
   ]
 }
