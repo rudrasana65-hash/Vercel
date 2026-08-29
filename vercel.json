@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://reasons-alliance-cottage-endorsement.trycloudflare.com/$1"
+      "destination": "https://way-spend-emacs-biz.trycloudflare.com/$1"
     }
   ]
 }
