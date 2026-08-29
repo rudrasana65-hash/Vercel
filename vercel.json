@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://substances-scotia-optimal-cottages.trycloudflare.com/$1"
+      "destination": "http://51.75.118.165:20082/$1"
     }
   ]
 }
